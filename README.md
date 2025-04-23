@@ -1,4 +1,9 @@
-## Hi there 👋, I'm Özge Kuzucu
+<h1 align="center">Hi there 👋, I'm Özge Kuzucu</h1>
+
+<h3 align="center">I'm  .NET Developer and Computer Engineer</h3>
+<br>
+
+## 🧑‍💻 About Me
 
 👩‍🎓 I am a graduate of **Computer Engineering**  
 🌱 I am improving myself as a **Full Stack .NET Developer**  
