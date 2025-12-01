@@ -23,13 +23,6 @@
 
 ---
 
-
-### 🔝 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozgekuzucu&layout=compact&theme=radical)
-
----
-
 ## 📫 How to Reach Me
 - 💼 LinkedIn: [linkedin.com/in/ozgekuzucu](https://linkedin.com/in/ozgekuzucu)  
 
